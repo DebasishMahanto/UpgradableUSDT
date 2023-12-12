@@ -1,0 +1,26 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ethersproject/abi": "^2.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.1",
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.3",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/hardhat-upgrades": "^2.4.3",
+    "hardhat": "^2.19.1"
+    
+  },
+  "dependencies": {
+    "@ethersproject/abi": "^2.0.0",
+    "@openzeppelin/contracts-upgradeable": "^5.0.0"
+  }
+}
